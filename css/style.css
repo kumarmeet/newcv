@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+  width: 30%;
+  margin: 0 auto;
+  font-size: 3rem;
+  color: #009f9d;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  font-size: 1.5rem;
+  color: #009f9d;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  font-size: 1rem;
+  color: #009f9d;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.top-container {
+  background-color: #cdffeb;
+  position: relative;
+  padding-top: 170px;
+}
+
+.middle-container {
+  padding: 20px;
+  background-color: #deecff;
+}
+
+.image-photography {
+  padding: 20px 0 0 0;
+}
+
+.image-photography, .skill-image, .profile-image {
+  height: 240px;
+}
+
+.middle-container p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.middle-container>.skill-row p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-me a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  padding: 30px 0;
+}
+
+.bottom-container>.footer-link, p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container {
+  background-color: #cdffeb;
+}
+
+.top-cloud {
+  height: 150px;
+  position: absolute;
+  bottom: 490px;
+}
+
+.bottom-cloud {
+  height: 150px;
+  position: absolute;
+  left: 270px;
+  bottom: 260px;
+}
+
+.mountain {
+  height: 350px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #009f9d;
+  padding: 0 30px;
+}
+
+.footer-link:hover{
+  color: #408ab4;
+}
+
+.contact-me a{
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  text-shadow: 1px 0px 3px #666666;
+  font-family: 'Montserrat', sans-serif;
+  color: #edf7fa;
+  font-size: 20px;
+  background: #30dbc4;
+  padding: 5px 20px;
+  text-decoration: none;
+}
+
+.contact-me a:hover {
+  background: #408ab4;
+  text-decoration: none;
+    color: #f4f3f3;
+}
+
+.bottom-container p{
+  padding-top: 20px;
+}
+
+.profile{
+  padding: 25px;
+}
+
+.skills{
+  padding: 25px;
+}
+
+.bottom-container{
+  padding: 25px;
+}
+
+.copyright{
+  color: #113f67;
+  font-size: 10px;
+}
